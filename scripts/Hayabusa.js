@@ -1,5 +1,5 @@
 $(document).ready(function(){
 	$('#title').click(function(){
-		$(this).animate({top: "-500px"}, 5000);
+		$('#title').animate({opacity: 0.0, left: "-500px"}, 2000);
 	});
 });
