@@ -1,16 +1,13 @@
-# Hayabusa (Working Title)
-###2D Side Scroller Adventure Game
+# Hayabusa
+###The Shadow Ninja
 
 ####About Hayabusa
-This project is being created and is under development by The Goldwatch Gang in the Fall 2015 CMSI 401: Programming Laboratory class at Loyola Marymount University.
+Hayabusa is a 2-Dimensional Side Scroller video game currently under development and testing by The Goldwatch Gang for the Fall 2015 CMSI 401: Programming Laboratory course at Loyola Marymount University. 
 
 ####Goldwatch Gang Roster
-Misa Pham
-
-Anthony Menjivar
-
-Maurice Leavell
-
-Adrian Ruiz
-
-Jordan C. McRae
+The team members of the Goldwatch Gang are, by order of last name:
++ Maurice Leavell
++ Jordan C. McRae
++ Anthony Menjivar
++ Misa Pham
++ Adrian Ruiz
